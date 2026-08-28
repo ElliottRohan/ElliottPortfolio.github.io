@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: #ffe5ff;
+    font-family: 'pixelifySans';
+    color:darkslateblue;
+}
+
+p {
+    font-size: 15px;
+    color:darkmagenta;
+text-align:left;
+}
+.blueParagraph {
+    color:blue;
+    font-size:25px;
+    margin-left:20px;
+}
+
+li {
+    font-size: 15px;
+    text-align:left;
+    color:darkmagenta;
+}
+
+p1 {color:darkmagenta;
+}
+
+
+
+a{color:darkmagenta;
+}
+
+@font-face {
+    font-family: 'pixelifySans';
+    src: url(pixelifySansSemiBold.ttf);
+}
